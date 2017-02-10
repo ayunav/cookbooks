@@ -18,3 +18,4 @@ A collection of how-to-dos I find useful.
   - [How to learn UI design](https://medium.com/@AyunasCode/how-to-learn-ui-bc6f05738e4d)
 - Xcode 
   - [How to add a new xib file only](https://medium.com/@AyunasCode/how-to-add-a-new-xib-file-only-5861571432b5#.6f4lehtud)
+  - [How to get rid of unwanted logs in the console](https://medium.com/@mimicatcodes/how-to-get-rid-of-unwanted-logs-in-the-console-xcode-8-6c1909ed75d8#.oasl84z1d)
