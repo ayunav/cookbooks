@@ -6,6 +6,7 @@ A collection of how-to-dos I find useful.
   - [Upload image using multipartFormData method with Alamofire, example](https://github.com/Alamofire/Alamofire/issues/1892)
 - CocoaPods  
   - [How to install CocoaPods (if you've never done this before)](https://medium.com/@AyunasCode/how-to-install-cocoapods-52c523f73a63)
+  - [How to remove CocoaPods from a project](http://stackoverflow.com/a/34765245/5503769)
 - GitHub
   - [How to hide your API keys](https://medium.com/@AyunasCode/how-to-hide-your-api-keys-367ef6589949#.deo9jtsae)
   - [Pull updates from the original repo into your forked copy](https://medium.com/@AyunasCode/pull-updates-from-the-original-repo-into-your-forked-copy-githelp-7c61d5256b7d)
