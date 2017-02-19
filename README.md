@@ -11,6 +11,8 @@ A collection of how-to-dos I find useful.
   - [How to hide your API keys](https://medium.com/@AyunasCode/how-to-hide-your-api-keys-367ef6589949#.deo9jtsae)
   - [Pull updates from the original repo into your forked copy](https://medium.com/@AyunasCode/pull-updates-from-the-original-repo-into-your-forked-copy-githelp-7c61d5256b7d)
   - [How to push large files to GitHub](https://medium.com/@AyunasCode/how-to-push-large-files-to-github-253d05cc6a09)
+- Job Search 
+  - [How I negotiated for an additional $15,000 at Yammer](https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec#.6n6cvkk0i) by Anna Marie Clifton
 - Medium 
   - [Keyboard shortcut to create code snippets on Medium](https://medium.com/@AyunasCode/keyboard-shortcut-to-create-code-snippets-on-medium-88165526a9c9)
 - Mental Health 
