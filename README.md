@@ -1,5 +1,5 @@
 # cookbooks
-A collection of how-to-dos I find useful.
+A collection of how-to-dos I find useful and would probably need to come back to, so here's a neat place to store all this wisdom.
 
 
 - Alamofire 
