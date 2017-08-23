@@ -22,3 +22,5 @@ A collection of how-to-dos I find useful.
 - Xcode 
   - [How to add a new xib file only](https://medium.com/@AyunasCode/how-to-add-a-new-xib-file-only-5861571432b5#.6f4lehtud)
   - [How to get rid of unwanted logs in the console](https://medium.com/@mimicatcodes/how-to-get-rid-of-unwanted-logs-in-the-console-xcode-8-6c1909ed75d8#.oasl84z1d)
+  - [iOS Code Signing](http://seventhsoulmountain.kripajay.com/2013/09/ios-code-sign-in-complete-walkthrough.html)
+  - [iOS Code Signing & Provisioning in a Nutshell](https://medium.com/ios-os-x-development/ios-code-signing-provisioning-in-a-nutshell-d5b247760bef)
