@@ -13,6 +13,8 @@ A collection of how-to-dos I find useful and would probably need to come back to
   - [How to push large files to GitHub](https://medium.com/@AyunasCode/how-to-push-large-files-to-github-253d05cc6a09)
 - Job Search 
   - [How I negotiated for an additional $15,000 at Yammer](https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec#.6n6cvkk0i) by Anna Marie Clifton
+- Open Source 
+  - [Contributing Guide to Open Source](https://medium.com/@AyunasCode/contributing-guide-to-open-source-31f94947fcde)
 - Medium 
   - [Keyboard shortcut to create code snippets on Medium](https://medium.com/@AyunasCode/keyboard-shortcut-to-create-code-snippets-on-medium-88165526a9c9)
 - Mental Health 
