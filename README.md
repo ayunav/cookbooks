@@ -11,6 +11,8 @@ A collection of how-to-dos I find useful and would probably need to come back to
   - [How to hide your API keys](https://medium.com/@AyunasCode/how-to-hide-your-api-keys-367ef6589949#.deo9jtsae)
   - [Pull updates from the original repo into your forked copy](https://medium.com/@AyunasCode/pull-updates-from-the-original-repo-into-your-forked-copy-githelp-7c61d5256b7d)
   - [How to push large files to GitHub](https://medium.com/@AyunasCode/how-to-push-large-files-to-github-253d05cc6a09)
+- iOS 
+  - [Passing data between view controllers](https://matteomanferdini.com/how-ios-view-controllers-communicate-with-each-other/)
 - Job Search 
   - [How I negotiated for an additional $15,000 at Yammer](https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec#.6n6cvkk0i) by Anna Marie Clifton
 - Open Source 
@@ -19,6 +21,9 @@ A collection of how-to-dos I find useful and would probably need to come back to
   - [Keyboard shortcut to create code snippets on Medium](https://medium.com/@AyunasCode/keyboard-shortcut-to-create-code-snippets-on-medium-88165526a9c9)
 - Mental Health 
   - [How to handle rejections](https://medium.com/@AyunasCode/how-to-handle-rejections-3a26af4c7d30)
+- Swift 
+  - [Type properties and static keyword](https://medium.com/@AyunasCode/static-keyword-swift-98b06ebc7020)
+  - [Value and reference types](https://medium.com/@AyunasCode/value-and-reference-types-a841362f10a1)
 - UI
   - [How to learn UI design](https://medium.com/@AyunasCode/how-to-learn-ui-bc6f05738e4d)
 - Xcode 
