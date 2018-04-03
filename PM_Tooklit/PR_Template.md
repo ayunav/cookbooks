@@ -3,9 +3,7 @@
 
 **Ticket**
 
-Ticket #2315 
-
-// Should link to ticket in Jira, VSTS, Trello, or other task tracking tool you use
+[Ticket #2315]() // Should link to ticket in Jira, VSTS, Trello, or other task tracking tool you use
 
 **Ticket Summary** 
 
