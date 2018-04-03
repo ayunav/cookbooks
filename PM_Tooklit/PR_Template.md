@@ -1,3 +1,15 @@
+# Pull Request checklist
+
+aka don't submit a pull request until you have all of the following boxes checked
+
+• Code is completed and well commented    
+• User input validation and error handling is implemented     
+• Tests are written and tests pass successfully      
+ 
+
+### Code changes have to be peer reviewed and approved via a pull request
+
+
 # Pull Request Template (Example)
 
 
