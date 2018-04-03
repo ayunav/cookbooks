@@ -5,6 +5,7 @@ aka don't submit a pull request until you have all of the following boxes checke
 • Code is completed and well commented    
 • User input validation and error handling is implemented     
 • Tests are written and tests pass successfully      
+• Builds without errors    
 • Code is accessible and localized    
 • Relevant documentation produced and/or updated 
 
