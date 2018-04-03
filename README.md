@@ -21,6 +21,8 @@ A collection of how-to-dos I find useful and would probably need to come back to
   - [Keyboard shortcut to create code snippets on Medium](https://medium.com/@AyunasCode/keyboard-shortcut-to-create-code-snippets-on-medium-88165526a9c9)
 - Mental Health 
   - [How to handle rejections](https://medium.com/@AyunasCode/how-to-handle-rejections-3a26af4c7d30)
+- [PM Toolkit](https://github.com/ayunav/cookbooks/tree/master/PM_Tooklit) 
+  - [Pull Request template](https://github.com/ayunav/cookbooks/blob/master/PM_Tooklit/PR_Template.md)  
 - Swift 
   - [Type properties and static keyword](https://medium.com/@AyunasCode/static-keyword-swift-98b06ebc7020)
   - [Value and reference types](https://medium.com/@AyunasCode/value-and-reference-types-a841362f10a1)
